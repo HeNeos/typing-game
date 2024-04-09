@@ -1,0 +1,16 @@
+{
+  "name": "typing-game",
+  "version": "1.0.0",
+  "description": "",
+  "main": "typing_game.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "heapify": "^0.6.0",
+    "nanoid": "^5.0.7",
+    "uuid": "^9.0.1"
+  }
+}
